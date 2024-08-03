@@ -1,0 +1,1 @@
+## This repo is the biweekly journal of my Build In Public Journey. To be updated on Monday and Friday every Week.
